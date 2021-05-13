@@ -1,4 +1,4 @@
-opath = "S:\\_WFH\PROJECTS_2021\\Singrix\\RND\POSES\\Instances\\"
+opath = "S:\\_WFH\PROJECTS_2021\\project\\export\\Instances\\"
 
 selobj = selection as array
 for o = 1 to selobj.count do
