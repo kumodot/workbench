@@ -1,2 +1,2 @@
 # workbench
-Set of Maxscript Tools
+Set of Kumodot (aka Marcelo Souza) Maxscript Tools for 3dsMax
